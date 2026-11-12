@@ -1,0 +1,22 @@
+{
+  "wheel_id": 873,
+  "structure": "umbrella",
+  "slug": "simplyearthworks-119",
+  "project": "earthmoving-adelaide-how-to-choose-5237d29bf2c43a0343bc427aa4e7",
+  "parent_t1_ref": "simplyearthworks-159",
+  "node_role": "feeder",
+  "money_target": "simplyearthworks.com.au",
+  "primary_kw": "earthmoving adelaide how to choose",
+  "intended_url": "http://earthmoving-adelaide-how-to-choose-5237d29bf2c43a0343bc427aa4e7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "568bbbb301d197a6",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/simplyearthworks-159/",
+      "anchor": "earthmoving adelaide cost guide explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
